@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="routeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="45" fill="url(#routeGrad)" opacity="0.1"/>
+  <path d="M30 70 Q35 50 50 45 Q65 40 70 30" stroke="url(#routeGrad)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="30" cy="70" r="6" fill="#6366f1"/>
+  <circle cx="70" cy="30" r="6" fill="#8b5cf6"/>
+  <circle cx="50" cy="50" r="3" fill="#a78bfa"/>
+</svg>
