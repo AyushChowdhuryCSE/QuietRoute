@@ -2,7 +2,6 @@
 
 > **Navigate Peacefully** - A smart navigation app that finds the quietest, safest, and best-lit routes in Kolkata.
 
-![QuietRoute Banner](https://via.placeholder.com/800x400/1a1a25/8b5cf6?text=QuietRoute+%7C+Navigate+Peacefully)
 
 ## 🎯 The Problem
 
@@ -115,9 +114,9 @@ psql -h localhost -U postgres -d quietroute
 PORT=3001
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=quietroute
+DB_NAME=Your DB Name
 DB_USER=postgres
-DB_PASSWORD=quietroute123
+DB_PASSWORD=Your DB Password
 ```
 
 ## 📡 API Endpoints
@@ -206,4 +205,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
-**Made with ❤️ for safer, quieter walks in Kolkata**
+**Made with ❤️ by Ayush Chowdhury for safer, quieter walks in Kolkata**
